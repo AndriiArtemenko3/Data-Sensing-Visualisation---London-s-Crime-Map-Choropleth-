@@ -1,0 +1,817 @@
+BoroughName,Crimes,Month
+Barking and Dagenham,1898,2023-06
+Barking and Dagenham,1897,2023-07
+Barking and Dagenham,1818,2023-08
+Barking and Dagenham,1884,2023-09
+Barking and Dagenham,1497,2023-10
+Barking and Dagenham,1576,2023-11
+Barking and Dagenham,1698,2023-12
+Barking and Dagenham,1678,2024-01
+Barking and Dagenham,1635,2024-02
+Barking and Dagenham,1766,2024-03
+Barking and Dagenham,1575,2024-04
+Barking and Dagenham,1714,2024-05
+Barking and Dagenham,1629,2024-06
+Barking and Dagenham,1701,2024-07
+Barking and Dagenham,1593,2024-08
+Barking and Dagenham,1687,2024-09
+Barking and Dagenham,1862,2024-10
+Barking and Dagenham,1832,2024-11
+Barking and Dagenham,1584,2024-12
+Barking and Dagenham,1565,2025-01
+Barking and Dagenham,1371,2025-02
+Barking and Dagenham,1741,2025-03
+Barking and Dagenham,1764,2025-04
+Barking and Dagenham,1704,2025-05
+Barnet,2398,2023-06
+Barnet,2476,2023-07
+Barnet,2257,2023-08
+Barnet,2260,2023-09
+Barnet,2436,2023-10
+Barnet,2481,2023-11
+Barnet,2347,2023-12
+Barnet,2346,2024-01
+Barnet,2303,2024-02
+Barnet,2297,2024-03
+Barnet,2274,2024-04
+Barnet,2437,2024-05
+Barnet,2340,2024-06
+Barnet,2498,2024-07
+Barnet,2278,2024-08
+Barnet,2373,2024-09
+Barnet,2481,2024-10
+Barnet,2485,2024-11
+Barnet,2211,2024-12
+Barnet,2294,2025-01
+Barnet,2134,2025-02
+Barnet,2425,2025-03
+Barnet,2255,2025-04
+Barnet,2396,2025-05
+Bexley,1358,2023-06
+Bexley,1388,2023-07
+Bexley,1392,2023-08
+Bexley,1430,2023-09
+Bexley,1337,2023-10
+Bexley,1414,2023-11
+Bexley,1429,2023-12
+Bexley,1420,2024-01
+Bexley,1300,2024-02
+Bexley,1475,2024-03
+Bexley,1417,2024-04
+Bexley,1355,2024-05
+Bexley,1482,2024-06
+Bexley,1495,2024-07
+Bexley,1438,2024-08
+Bexley,1300,2024-09
+Bexley,1449,2024-10
+Bexley,1393,2024-11
+Bexley,1193,2024-12
+Bexley,1306,2025-01
+Bexley,1304,2025-02
+Bexley,1370,2025-03
+Bexley,1269,2025-04
+Bexley,1382,2025-05
+Brent,2924,2023-06
+Brent,2820,2023-07
+Brent,2644,2023-08
+Brent,2705,2023-09
+Brent,2557,2023-10
+Brent,2610,2023-11
+Brent,2612,2023-12
+Brent,2550,2024-01
+Brent,2635,2024-02
+Brent,2716,2024-03
+Brent,2648,2024-04
+Brent,2804,2024-05
+Brent,2915,2024-06
+Brent,2828,2024-07
+Brent,2680,2024-08
+Brent,2763,2024-09
+Brent,2811,2024-10
+Brent,2665,2024-11
+Brent,2534,2024-12
+Brent,2560,2025-01
+Brent,2409,2025-02
+Brent,2679,2025-03
+Brent,2508,2025-04
+Brent,2850,2025-05
+Bromley,1990,2023-06
+Bromley,2031,2023-07
+Bromley,2040,2023-08
+Bromley,2027,2023-09
+Bromley,1871,2023-10
+Bromley,2051,2023-11
+Bromley,1932,2023-12
+Bromley,1909,2024-01
+Bromley,1944,2024-02
+Bromley,2003,2024-03
+Bromley,1974,2024-04
+Bromley,1996,2024-05
+Bromley,1967,2024-06
+Bromley,2138,2024-07
+Bromley,2117,2024-08
+Bromley,2048,2024-09
+Bromley,2055,2024-10
+Bromley,2123,2024-11
+Bromley,1978,2024-12
+Bromley,1973,2025-01
+Bromley,1872,2025-02
+Bromley,1955,2025-03
+Bromley,2027,2025-04
+Bromley,2029,2025-05
+Camden,3563,2023-06
+Camden,3452,2023-07
+Camden,3229,2023-08
+Camden,3362,2023-09
+Camden,3411,2023-10
+Camden,3646,2023-11
+Camden,3154,2023-12
+Camden,3171,2024-01
+Camden,3636,2024-02
+Camden,3549,2024-03
+Camden,3405,2024-04
+Camden,3491,2024-05
+Camden,3809,2024-06
+Camden,3810,2024-07
+Camden,3395,2024-08
+Camden,3392,2024-09
+Camden,3807,2024-10
+Camden,3869,2024-11
+Camden,3703,2024-12
+Camden,3268,2025-01
+Camden,3480,2025-02
+Camden,3458,2025-03
+Camden,3349,2025-04
+Camden,3401,2025-05
+Croydon,2988,2023-06
+Croydon,3008,2023-07
+Croydon,2880,2023-08
+Croydon,2957,2023-09
+Croydon,2790,2023-10
+Croydon,2907,2023-11
+Croydon,2826,2023-12
+Croydon,2921,2024-01
+Croydon,2731,2024-02
+Croydon,2970,2024-03
+Croydon,2715,2024-04
+Croydon,2925,2024-05
+Croydon,2896,2024-06
+Croydon,3033,2024-07
+Croydon,3188,2024-08
+Croydon,2942,2024-09
+Croydon,3075,2024-10
+Croydon,2966,2024-11
+Croydon,2929,2024-12
+Croydon,2832,2025-01
+Croydon,2585,2025-02
+Croydon,2869,2025-03
+Croydon,2762,2025-04
+Croydon,2978,2025-05
+Ealing,2647,2023-06
+Ealing,2799,2023-07
+Ealing,2640,2023-08
+Ealing,2817,2023-09
+Ealing,2690,2023-10
+Ealing,2705,2023-11
+Ealing,2547,2023-12
+Ealing,2531,2024-01
+Ealing,2610,2024-02
+Ealing,2663,2024-03
+Ealing,2482,2024-04
+Ealing,2582,2024-05
+Ealing,2730,2024-06
+Ealing,2740,2024-07
+Ealing,2511,2024-08
+Ealing,2587,2024-09
+Ealing,2744,2024-10
+Ealing,2804,2024-11
+Ealing,2494,2024-12
+Ealing,2658,2025-01
+Ealing,2454,2025-02
+Ealing,2692,2025-03
+Ealing,2651,2025-04
+Ealing,2643,2025-05
+Enfield,2525,2023-06
+Enfield,2451,2023-07
+Enfield,2339,2023-08
+Enfield,2501,2023-09
+Enfield,2367,2023-10
+Enfield,2461,2023-11
+Enfield,2497,2023-12
+Enfield,2411,2024-01
+Enfield,2222,2024-02
+Enfield,2278,2024-03
+Enfield,2335,2024-04
+Enfield,2575,2024-05
+Enfield,2455,2024-06
+Enfield,2478,2024-07
+Enfield,2464,2024-08
+Enfield,2706,2024-09
+Enfield,2698,2024-10
+Enfield,2702,2024-11
+Enfield,2392,2024-12
+Enfield,2531,2025-01
+Enfield,2252,2025-02
+Enfield,2454,2025-03
+Enfield,2270,2025-04
+Enfield,2423,2025-05
+Greenwich,2630,2023-06
+Greenwich,2489,2023-07
+Greenwich,2262,2023-08
+Greenwich,2463,2023-09
+Greenwich,2112,2023-10
+Greenwich,2298,2023-11
+Greenwich,2354,2023-12
+Greenwich,2316,2024-01
+Greenwich,2105,2024-02
+Greenwich,2211,2024-03
+Greenwich,2123,2024-04
+Greenwich,2453,2024-05
+Greenwich,2380,2024-06
+Greenwich,2331,2024-07
+Greenwich,2367,2024-08
+Greenwich,2446,2024-09
+Greenwich,2433,2024-10
+Greenwich,2406,2024-11
+Greenwich,2243,2024-12
+Greenwich,2118,2025-01
+Greenwich,2094,2025-02
+Greenwich,2361,2025-03
+Greenwich,2356,2025-04
+Greenwich,2474,2025-05
+Hackney,2919,2023-06
+Hackney,2847,2023-07
+Hackney,2680,2023-08
+Hackney,2694,2023-09
+Hackney,2673,2023-10
+Hackney,2740,2023-11
+Hackney,2725,2023-12
+Hackney,2826,2024-01
+Hackney,2664,2024-02
+Hackney,2696,2024-03
+Hackney,2766,2024-04
+Hackney,3118,2024-05
+Hackney,2722,2024-06
+Hackney,2736,2024-07
+Hackney,2953,2024-08
+Hackney,2807,2024-09
+Hackney,3022,2024-10
+Hackney,2940,2024-11
+Hackney,2619,2024-12
+Hackney,2539,2025-01
+Hackney,2300,2025-02
+Hackney,2696,2025-03
+Hackney,2563,2025-04
+Hackney,2790,2025-05
+Hammersmith and Fulham,1918,2023-06
+Hammersmith and Fulham,1902,2023-07
+Hammersmith and Fulham,1816,2023-08
+Hammersmith and Fulham,1892,2023-09
+Hammersmith and Fulham,1864,2023-10
+Hammersmith and Fulham,1865,2023-11
+Hammersmith and Fulham,1745,2023-12
+Hammersmith and Fulham,1784,2024-01
+Hammersmith and Fulham,1778,2024-02
+Hammersmith and Fulham,1796,2024-03
+Hammersmith and Fulham,1675,2024-04
+Hammersmith and Fulham,1805,2024-05
+Hammersmith and Fulham,1762,2024-06
+Hammersmith and Fulham,1808,2024-07
+Hammersmith and Fulham,1879,2024-08
+Hammersmith and Fulham,1779,2024-09
+Hammersmith and Fulham,1931,2024-10
+Hammersmith and Fulham,1880,2024-11
+Hammersmith and Fulham,1742,2024-12
+Hammersmith and Fulham,1696,2025-01
+Hammersmith and Fulham,1644,2025-02
+Hammersmith and Fulham,1741,2025-03
+Hammersmith and Fulham,1759,2025-04
+Hammersmith and Fulham,1957,2025-05
+Haringey,2587,2023-06
+Haringey,2752,2023-07
+Haringey,2368,2023-08
+Haringey,2496,2023-09
+Haringey,2477,2023-10
+Haringey,2489,2023-11
+Haringey,2314,2023-12
+Haringey,2254,2024-01
+Haringey,2223,2024-02
+Haringey,2231,2024-03
+Haringey,2276,2024-04
+Haringey,2555,2024-05
+Haringey,2370,2024-06
+Haringey,2622,2024-07
+Haringey,2402,2024-08
+Haringey,2355,2024-09
+Haringey,2520,2024-10
+Haringey,2330,2024-11
+Haringey,2224,2024-12
+Haringey,2197,2025-01
+Haringey,2156,2025-02
+Haringey,2367,2025-03
+Haringey,2300,2025-04
+Haringey,2665,2025-05
+Harrow,1390,2023-06
+Harrow,1291,2023-07
+Harrow,1226,2023-08
+Harrow,1329,2023-09
+Harrow,1212,2023-10
+Harrow,1285,2023-11
+Harrow,1306,2023-12
+Harrow,1280,2024-01
+Harrow,1294,2024-02
+Harrow,1372,2024-03
+Harrow,1282,2024-04
+Harrow,1388,2024-05
+Harrow,1231,2024-06
+Harrow,1393,2024-07
+Harrow,1381,2024-08
+Harrow,1494,2024-09
+Harrow,1594,2024-10
+Harrow,1468,2024-11
+Harrow,1409,2024-12
+Harrow,1283,2025-01
+Harrow,1254,2025-02
+Harrow,1289,2025-03
+Harrow,1281,2025-04
+Harrow,1418,2025-05
+Havering,1837,2023-06
+Havering,1809,2023-07
+Havering,1758,2023-08
+Havering,1828,2023-09
+Havering,1865,2023-10
+Havering,1821,2023-11
+Havering,1695,2023-12
+Havering,1743,2024-01
+Havering,1768,2024-02
+Havering,1657,2024-03
+Havering,1701,2024-04
+Havering,1788,2024-05
+Havering,1723,2024-06
+Havering,1814,2024-07
+Havering,1733,2024-08
+Havering,1600,2024-09
+Havering,1675,2024-10
+Havering,1738,2024-11
+Havering,1471,2024-12
+Havering,1487,2025-01
+Havering,1363,2025-02
+Havering,1632,2025-03
+Havering,1585,2025-04
+Havering,1673,2025-05
+Hillingdon,2010,2023-06
+Hillingdon,1985,2023-07
+Hillingdon,1922,2023-08
+Hillingdon,1987,2023-09
+Hillingdon,1928,2023-10
+Hillingdon,1922,2023-11
+Hillingdon,1863,2023-12
+Hillingdon,2036,2024-01
+Hillingdon,1950,2024-02
+Hillingdon,2350,2024-03
+Hillingdon,2346,2024-04
+Hillingdon,2469,2024-05
+Hillingdon,2604,2024-06
+Hillingdon,2787,2024-07
+Hillingdon,2730,2024-08
+Hillingdon,2359,2024-09
+Hillingdon,2608,2024-10
+Hillingdon,2581,2024-11
+Hillingdon,2400,2024-12
+Hillingdon,2478,2025-01
+Hillingdon,2388,2025-02
+Hillingdon,2457,2025-03
+Hillingdon,2450,2025-04
+Hillingdon,2570,2025-05
+Hounslow,2314,2023-06
+Hounslow,2483,2023-07
+Hounslow,2450,2023-08
+Hounslow,2585,2023-09
+Hounslow,2201,2023-10
+Hounslow,2409,2023-11
+Hounslow,2224,2023-12
+Hounslow,2131,2024-01
+Hounslow,2219,2024-02
+Hounslow,2113,2024-03
+Hounslow,2199,2024-04
+Hounslow,2121,2024-05
+Hounslow,2199,2024-06
+Hounslow,2533,2024-07
+Hounslow,2233,2024-08
+Hounslow,2181,2024-09
+Hounslow,2305,2024-10
+Hounslow,2270,2024-11
+Hounslow,2197,2024-12
+Hounslow,2043,2025-01
+Hounslow,1969,2025-02
+Hounslow,2065,2025-03
+Hounslow,2092,2025-04
+Hounslow,2332,2025-05
+Islington,2520,2023-06
+Islington,2501,2023-07
+Islington,2424,2023-08
+Islington,2341,2023-09
+Islington,2377,2023-10
+Islington,2363,2023-11
+Islington,2255,2023-12
+Islington,2321,2024-01
+Islington,2301,2024-02
+Islington,2238,2024-03
+Islington,2549,2024-04
+Islington,2683,2024-05
+Islington,2634,2024-06
+Islington,2638,2024-07
+Islington,2612,2024-08
+Islington,2694,2024-09
+Islington,2769,2024-10
+Islington,2642,2024-11
+Islington,2512,2024-12
+Islington,2576,2025-01
+Islington,2344,2025-02
+Islington,2700,2025-03
+Islington,2651,2025-04
+Islington,2836,2025-05
+Kensington and Chelsea,1960,2023-06
+Kensington and Chelsea,1922,2023-07
+Kensington and Chelsea,2456,2023-08
+Kensington and Chelsea,1842,2023-09
+Kensington and Chelsea,2021,2023-10
+Kensington and Chelsea,2047,2023-11
+Kensington and Chelsea,1822,2023-12
+Kensington and Chelsea,1822,2024-01
+Kensington and Chelsea,1927,2024-02
+Kensington and Chelsea,1866,2024-03
+Kensington and Chelsea,1897,2024-04
+Kensington and Chelsea,1884,2024-05
+Kensington and Chelsea,1858,2024-06
+Kensington and Chelsea,1791,2024-07
+Kensington and Chelsea,2473,2024-08
+Kensington and Chelsea,1815,2024-09
+Kensington and Chelsea,1991,2024-10
+Kensington and Chelsea,1992,2024-11
+Kensington and Chelsea,1847,2024-12
+Kensington and Chelsea,1702,2025-01
+Kensington and Chelsea,1743,2025-02
+Kensington and Chelsea,1797,2025-03
+Kensington and Chelsea,1769,2025-04
+Kensington and Chelsea,1866,2025-05
+Kingston upon Thames,1076,2023-06
+Kingston upon Thames,1040,2023-07
+Kingston upon Thames,1047,2023-08
+Kingston upon Thames,1022,2023-09
+Kingston upon Thames,1001,2023-10
+Kingston upon Thames,971,2023-11
+Kingston upon Thames,913,2023-12
+Kingston upon Thames,940,2024-01
+Kingston upon Thames,922,2024-02
+Kingston upon Thames,865,2024-03
+Kingston upon Thames,905,2024-04
+Kingston upon Thames,886,2024-05
+Kingston upon Thames,995,2024-06
+Kingston upon Thames,1072,2024-07
+Kingston upon Thames,1023,2024-08
+Kingston upon Thames,914,2024-09
+Kingston upon Thames,936,2024-10
+Kingston upon Thames,923,2024-11
+Kingston upon Thames,857,2024-12
+Kingston upon Thames,944,2025-01
+Kingston upon Thames,927,2025-02
+Kingston upon Thames,1013,2025-03
+Kingston upon Thames,899,2025-04
+Kingston upon Thames,993,2025-05
+Lambeth,3152,2023-06
+Lambeth,3181,2023-07
+Lambeth,3038,2023-08
+Lambeth,2971,2023-09
+Lambeth,2928,2023-10
+Lambeth,2977,2023-11
+Lambeth,2998,2023-12
+Lambeth,2870,2024-01
+Lambeth,2931,2024-02
+Lambeth,3177,2024-03
+Lambeth,3136,2024-04
+Lambeth,3475,2024-05
+Lambeth,3536,2024-06
+Lambeth,3439,2024-07
+Lambeth,3447,2024-08
+Lambeth,3381,2024-09
+Lambeth,3425,2024-10
+Lambeth,3018,2024-11
+Lambeth,2988,2024-12
+Lambeth,2906,2025-01
+Lambeth,2757,2025-02
+Lambeth,2912,2025-03
+Lambeth,3177,2025-04
+Lambeth,3339,2025-05
+Lewisham,2853,2023-06
+Lewisham,2615,2023-07
+Lewisham,2613,2023-08
+Lewisham,2530,2023-09
+Lewisham,2270,2023-10
+Lewisham,2290,2023-11
+Lewisham,2324,2023-12
+Lewisham,2365,2024-01
+Lewisham,2325,2024-02
+Lewisham,2513,2024-03
+Lewisham,2480,2024-04
+Lewisham,2647,2024-05
+Lewisham,2692,2024-06
+Lewisham,2828,2024-07
+Lewisham,2556,2024-08
+Lewisham,2521,2024-09
+Lewisham,2587,2024-10
+Lewisham,2528,2024-11
+Lewisham,2378,2024-12
+Lewisham,2335,2025-01
+Lewisham,2228,2025-02
+Lewisham,2316,2025-03
+Lewisham,2425,2025-04
+Lewisham,2561,2025-05
+London Heathrow and London City Airports,429,2023-06
+London Heathrow and London City Airports,443,2023-07
+London Heathrow and London City Airports,434,2023-08
+London Heathrow and London City Airports,499,2023-09
+London Heathrow and London City Airports,496,2023-10
+London Heathrow and London City Airports,476,2023-11
+London Heathrow and London City Airports,516,2023-12
+London Heathrow and London City Airports,542,2024-01
+London Heathrow and London City Airports,409,2024-02
+London Heathrow and London City Airports,0,2024-03
+London Heathrow and London City Airports,0,2024-04
+London Heathrow and London City Airports,0,2024-05
+London Heathrow and London City Airports,0,2024-06
+London Heathrow and London City Airports,0,2024-07
+London Heathrow and London City Airports,0,2024-08
+London Heathrow and London City Airports,0,2024-09
+London Heathrow and London City Airports,0,2024-10
+London Heathrow and London City Airports,0,2024-11
+London Heathrow and London City Airports,0,2024-12
+London Heathrow and London City Airports,0,2025-01
+London Heathrow and London City Airports,0,2025-02
+London Heathrow and London City Airports,0,2025-03
+London Heathrow and London City Airports,0,2025-04
+London Heathrow and London City Airports,0,2025-05
+Merton,1262,2023-06
+Merton,1292,2023-07
+Merton,1138,2023-08
+Merton,1266,2023-09
+Merton,1236,2023-10
+Merton,1131,2023-11
+Merton,1139,2023-12
+Merton,1171,2024-01
+Merton,1113,2024-02
+Merton,1063,2024-03
+Merton,1118,2024-04
+Merton,1158,2024-05
+Merton,1153,2024-06
+Merton,1277,2024-07
+Merton,1227,2024-08
+Merton,1244,2024-09
+Merton,1199,2024-10
+Merton,1179,2024-11
+Merton,1053,2024-12
+Merton,1109,2025-01
+Merton,990,2025-02
+Merton,1213,2025-03
+Merton,1178,2025-04
+Merton,1167,2025-05
+Newham,3360,2023-06
+Newham,3178,2023-07
+Newham,3221,2023-08
+Newham,3295,2023-09
+Newham,3131,2023-10
+Newham,3462,2023-11
+Newham,3423,2023-12
+Newham,3141,2024-01
+Newham,3127,2024-02
+Newham,3320,2024-03
+Newham,3500,2024-04
+Newham,3400,2024-05
+Newham,3381,2024-06
+Newham,3413,2024-07
+Newham,3448,2024-08
+Newham,3454,2024-09
+Newham,3658,2024-10
+Newham,3494,2024-11
+Newham,3413,2024-12
+Newham,3259,2025-01
+Newham,3138,2025-02
+Newham,3380,2025-03
+Newham,3196,2025-04
+Newham,3428,2025-05
+Redbridge,2109,2023-06
+Redbridge,2077,2023-07
+Redbridge,2068,2023-08
+Redbridge,2122,2023-09
+Redbridge,1959,2023-10
+Redbridge,1945,2023-11
+Redbridge,1887,2023-12
+Redbridge,1992,2024-01
+Redbridge,1939,2024-02
+Redbridge,2037,2024-03
+Redbridge,1885,2024-04
+Redbridge,2128,2024-05
+Redbridge,2087,2024-06
+Redbridge,2149,2024-07
+Redbridge,1952,2024-08
+Redbridge,1884,2024-09
+Redbridge,2096,2024-10
+Redbridge,2008,2024-11
+Redbridge,1893,2024-12
+Redbridge,1952,2025-01
+Redbridge,1796,2025-02
+Redbridge,1902,2025-03
+Redbridge,1990,2025-04
+Redbridge,2097,2025-05
+Richmond upon Thames,1016,2023-06
+Richmond upon Thames,1062,2023-07
+Richmond upon Thames,1107,2023-08
+Richmond upon Thames,1066,2023-09
+Richmond upon Thames,949,2023-10
+Richmond upon Thames,959,2023-11
+Richmond upon Thames,898,2023-12
+Richmond upon Thames,909,2024-01
+Richmond upon Thames,949,2024-02
+Richmond upon Thames,930,2024-03
+Richmond upon Thames,931,2024-04
+Richmond upon Thames,1071,2024-05
+Richmond upon Thames,1131,2024-06
+Richmond upon Thames,1106,2024-07
+Richmond upon Thames,1074,2024-08
+Richmond upon Thames,985,2024-09
+Richmond upon Thames,1035,2024-10
+Richmond upon Thames,1140,2024-11
+Richmond upon Thames,965,2024-12
+Richmond upon Thames,904,2025-01
+Richmond upon Thames,825,2025-02
+Richmond upon Thames,1010,2025-03
+Richmond upon Thames,984,2025-04
+Richmond upon Thames,1171,2025-05
+Southwark,3548,2023-06
+Southwark,3313,2023-07
+Southwark,3148,2023-08
+Southwark,3303,2023-09
+Southwark,2931,2023-10
+Southwark,3183,2023-11
+Southwark,3117,2023-12
+Southwark,3144,2024-01
+Southwark,2959,2024-02
+Southwark,3095,2024-03
+Southwark,3127,2024-04
+Southwark,3317,2024-05
+Southwark,3231,2024-06
+Southwark,3252,2024-07
+Southwark,3442,2024-08
+Southwark,3555,2024-09
+Southwark,3833,2024-10
+Southwark,3523,2024-11
+Southwark,3396,2024-12
+Southwark,3131,2025-01
+Southwark,2957,2025-02
+Southwark,3383,2025-03
+Southwark,3159,2025-04
+Southwark,3467,2025-05
+Sutton,1166,2023-06
+Sutton,1201,2023-07
+Sutton,1026,2023-08
+Sutton,1101,2023-09
+Sutton,1075,2023-10
+Sutton,1067,2023-11
+Sutton,1104,2023-12
+Sutton,1205,2024-01
+Sutton,1013,2024-02
+Sutton,1045,2024-03
+Sutton,952,2024-04
+Sutton,1199,2024-05
+Sutton,1057,2024-06
+Sutton,1241,2024-07
+Sutton,1080,2024-08
+Sutton,1075,2024-09
+Sutton,1194,2024-10
+Sutton,1049,2024-11
+Sutton,1036,2024-12
+Sutton,977,2025-01
+Sutton,950,2025-02
+Sutton,1100,2025-03
+Sutton,1128,2025-04
+Sutton,1167,2025-05
+Tower Hamlets,2939,2023-06
+Tower Hamlets,3184,2023-07
+Tower Hamlets,3014,2023-08
+Tower Hamlets,3036,2023-09
+Tower Hamlets,3111,2023-10
+Tower Hamlets,3191,2023-11
+Tower Hamlets,3168,2023-12
+Tower Hamlets,2827,2024-01
+Tower Hamlets,2879,2024-02
+Tower Hamlets,2926,2024-03
+Tower Hamlets,2853,2024-04
+Tower Hamlets,3194,2024-05
+Tower Hamlets,3007,2024-06
+Tower Hamlets,3298,2024-07
+Tower Hamlets,3648,2024-08
+Tower Hamlets,3080,2024-09
+Tower Hamlets,3158,2024-10
+Tower Hamlets,3112,2024-11
+Tower Hamlets,2822,2024-12
+Tower Hamlets,2738,2025-01
+Tower Hamlets,2460,2025-02
+Tower Hamlets,2969,2025-03
+Tower Hamlets,2957,2025-04
+Tower Hamlets,3074,2025-05
+Unknown,2399,2023-06
+Unknown,1534,2023-07
+Unknown,1332,2023-08
+Unknown,1337,2023-09
+Unknown,8051,2023-10
+Unknown,1431,2023-11
+Unknown,1306,2023-12
+Unknown,1335,2024-01
+Unknown,1375,2024-02
+Unknown,1681,2024-03
+Unknown,1561,2024-04
+Unknown,1659,2024-05
+Unknown,1208,2024-06
+Unknown,2589,2024-07
+Unknown,1423,2024-08
+Unknown,611,2024-09
+Unknown,266,2024-10
+Unknown,267,2024-11
+Unknown,204,2024-12
+Unknown,193,2025-01
+Unknown,237,2025-02
+Unknown,215,2025-03
+Unknown,184,2025-04
+Unknown,241,2025-05
+Waltham Forest,2069,2023-06
+Waltham Forest,2060,2023-07
+Waltham Forest,1985,2023-08
+Waltham Forest,2000,2023-09
+Waltham Forest,1857,2023-10
+Waltham Forest,2043,2023-11
+Waltham Forest,1957,2023-12
+Waltham Forest,1867,2024-01
+Waltham Forest,1893,2024-02
+Waltham Forest,2039,2024-03
+Waltham Forest,2068,2024-04
+Waltham Forest,2232,2024-05
+Waltham Forest,2209,2024-06
+Waltham Forest,2229,2024-07
+Waltham Forest,2133,2024-08
+Waltham Forest,2033,2024-09
+Waltham Forest,2309,2024-10
+Waltham Forest,2249,2024-11
+Waltham Forest,1991,2024-12
+Waltham Forest,1895,2025-01
+Waltham Forest,1799,2025-02
+Waltham Forest,2078,2025-03
+Waltham Forest,2007,2025-04
+Waltham Forest,2116,2025-05
+Wandsworth,2460,2023-06
+Wandsworth,2461,2023-07
+Wandsworth,2226,2023-08
+Wandsworth,2250,2023-09
+Wandsworth,2353,2023-10
+Wandsworth,2130,2023-11
+Wandsworth,2247,2023-12
+Wandsworth,2197,2024-01
+Wandsworth,2066,2024-02
+Wandsworth,2236,2024-03
+Wandsworth,2039,2024-04
+Wandsworth,2226,2024-05
+Wandsworth,2195,2024-06
+Wandsworth,2334,2024-07
+Wandsworth,2243,2024-08
+Wandsworth,2194,2024-09
+Wandsworth,2075,2024-10
+Wandsworth,2163,2024-11
+Wandsworth,2117,2024-12
+Wandsworth,2037,2025-01
+Wandsworth,1908,2025-02
+Wandsworth,2122,2025-03
+Wandsworth,2125,2025-04
+Wandsworth,2260,2025-05
+Westminster,7447,2023-06
+Westminster,7606,2023-07
+Westminster,6786,2023-08
+Westminster,6540,2023-09
+Westminster,7446,2023-10
+Westminster,9407,2023-11
+Westminster,9502,2023-12
+Westminster,7611,2024-01
+Westminster,7989,2024-02
+Westminster,7862,2024-03
+Westminster,7243,2024-04
+Westminster,7000,2024-05
+Westminster,7353,2024-06
+Westminster,7144,2024-07
+Westminster,6780,2024-08
+Westminster,6419,2024-09
+Westminster,7938,2024-10
+Westminster,8950,2024-11
+Westminster,9284,2024-12
+Westminster,7165,2025-01
+Westminster,7070,2025-02
+Westminster,7026,2025-03
+Westminster,6738,2025-04
+Westminster,6691,2025-05

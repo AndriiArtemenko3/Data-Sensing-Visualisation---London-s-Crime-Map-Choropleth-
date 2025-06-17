@@ -1,0 +1,31 @@
+#tooltip {
+  position: absolute;
+  background: white;
+  padding: 6px;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  font-size: 12px;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  z-index: 1000;
+}
+
+#legend {
+  margin-top: 20px;
+  font-family: sans-serif;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+.color-box {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  border: 1px solid #888;
+}
